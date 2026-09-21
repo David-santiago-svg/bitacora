@@ -7,6 +7,5 @@
 | 5  |28/08/2026 3:40:00 P.M        |David Santiago Santos Amaya|El punto 4 de la actividad de apropiación trata sobre el codigo para iniciar un a fusión entre las ramas que hay en la terminal.|Sin impedimentos operativos|Continuar con la actividad realizando las indicaciones y aplicando los codigos que la propia guía nos indica y enseña como hacer.|
 | 6  |28/08/2026 3:45:00 P.M        |David Santiago Santos Amaya|En el punto 5 trata sobre como arreglar el conflicto llegado el caso de que ocurra uno durante el proceso de fusión entre las ramas.|Sin impedimentos operativos|Continuar con la actividad realizando las indicaciones y aplicando los codigos que la propia guía nos indica y enseña como hacer.|
 | 7  |28/08/2026 3:50:00 P.M        |David Santiago Santos Amaya|El punto 6 y ultimo aprendemos el comando para ver el resultado de las ramas y el proceso que hicimos.|Sin impedimentos operativos|Continuar con la actividad realizando las indicaciones y aplicando los codigos que la propia guía nos indica y enseña como hacer.|
-| 8  ||||||
-| 9  ||||||
-| 10 ||||||
+| 8  |28/08/2026 4:20:00 P.M        |David Santiago Santos Amaya|Participar en 2 actividades de kahoot y realizar la actividad llamada "proyecto rescate".|Tube algunos incomvenientes en el momento de fusiónar las ramas en la actividad del proyecto rescate, ignorando eso no hubieron mas inconvenientes.|Continuar con la actividad realizando las indicaciones y aplicando los codigos que la propia guía nos indica y enseña como hacer.|
+
