@@ -5,7 +5,7 @@
 | 3  |28/08/2026 2:10:00 P.M        |David Santiago Santos Amaya|Continuamos con el punto 2 de la actividad de apropiación y ponemos a preba los comandos indicados en la guía y los previamente aprendidos.|Sin impedimentos operativos|Continuar con la actividad realizando las indicaciones y aplicando los codigos que la propia guía nos indica y enseña como hacer.|
 | 4  |28/08/2026 2:20:00 P.M        |David Santiago Santos Amaya|En el punto 3 de la actividad de apropiación iniciamos el proceso para generar un "conflicto" entre las 2 ramas antes de unirlas.|Sin impedimentos operativos|Continuar con la actividad realizando las indicaciones y aplicando los codigos que la propia guía nos indica y enseña como hacer.|
 | 5  |28/08/2026 3:40:00 P.M        |David Santiago Santos Amaya|El punto 4 de la actividad de apropiación trata sobre el codigo para iniciar un a fusión entre las ramas que hay en la terminal.|Sin impedimentos operativos|Continuar con la actividad realizando las indicaciones y aplicando los codigos que la propia guía nos indica y enseña como hacer.|
-| 6  ||||||
+| 6  |28/08/2026 3:45:00 P.M        |David Santiago Santos Amaya|En el punto 5 trata sobre como arreglar el conflicto llegado el caso de que ocurra uno durante el proceso de fusión entre las ramas.|Sin impedimentos operativos|Continuar con la actividad realizando las indicaciones y aplicando los codigos que la propia guía nos indica y enseña como hacer.|
 | 7  ||||||
 | 8  ||||||
 | 9  ||||||
