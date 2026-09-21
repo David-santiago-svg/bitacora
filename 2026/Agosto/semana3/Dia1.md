@@ -2,7 +2,7 @@
 |----|------------------------------|----------------------------|--------------------------------------|----------------------------------------------------------------|---------------------------------------------|
 | 1  |21/08/2026  1:00:00 P.M       |David Santiago Santos Amaya |Inicio y explicación de la actividad de aprendizaje "bitacora"|Sin impedimentos operativos|Comenzar con el desarrollo de la actividad.|
 | 2  |21/08/2026  1:10:00 P.M       |David Santiago Santos Amaya |Luego de las instrucciones dadas por el instructor damos inicio a una actividad de aprendizaje sobre el uso de la consola de el computador.|Sin impedimentos operativos|Participar en la actividad de aprendizaje didactio en el ambiente de aprendizaje y realizar la actividad anteriormente mencionada.|
-| 3  ||||||
+| 3  |21/08/2026 2:30:00 P.M        |David Santiago Santos Amaya |realizamos una actividad interactiva en grupos.|Sin impedimentos operativos|Realizar la actividad en grupos y responder de forma correcta según lo aprendido con el instrucor en el transcurso de todas las jornadas anteriones.|
 | 4  ||||||
 | 5  ||||||
 | 6  ||||||
